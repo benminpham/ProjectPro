@@ -1,0 +1,1 @@
+Hello, This is testing my git repo using terminal
